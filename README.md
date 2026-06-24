@@ -1,10 +1,7 @@
 # About Me
 # Hi, I'm Afrina 👋
 
-### Management Information Systems @ Oklahoma State University
-### Aspiring Data Analyst | Business Analyst | Risk Analyst
-
-I enjoy transforming data into actionable insights through analytics, visualization, forecasting, and risk analysis.
+Let's dive into the projects already!
 
 ---
 
