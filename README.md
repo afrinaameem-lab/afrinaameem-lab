@@ -41,8 +41,8 @@ Let's dive into the projects already!
 
 ## 🚀 Featured Projects
 
-### Commodity Risk & Derivatives Analysis
-Applied Monte Carlo Simulation, Value at Risk (VaR), stress testing, and commodity pricing models to evaluate market risk.
+### Southern Crash Insurance Risk Model 
+Built a SQL and Power BI risk model to identity the human, roadway and environmental factors impacting the fatal creash exposure across Sothern U.S States
 
 ### Power BI Dashboard Projects
 Built interactive KPI dashboards and business intelligence reports.
@@ -50,14 +50,9 @@ Built interactive KPI dashboards and business intelligence reports.
 ### Tableau Retail Analytics Story
 Developed visual analytics dashboards and business performance insights.
 
-### Balanced Coffee Co.
-ASP.NET Razor Pages application with Azure SQL database integration.
-
 ### A/B Testing & Marketing Analytics
 Performed hypothesis testing and conversion analysis for marketing campaigns.
 
-### Natural Gas Price Forecasting
-Applied forecasting and financial modeling techniques to estimate commodity prices.
 
 ---
 
