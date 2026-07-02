@@ -44,14 +44,11 @@ Let's dive into the projects already!
 ### Southern Crash Insurance Risk Model 
 Built a SQL and Power BI risk model to identity the human, roadway and environmental factors impacting the fatal creash exposure across Sothern U.S States
 
-### Power BI Dashboard Projects
-Built interactive KPI dashboards and business intelligence reports.
-
 ### Tableau Retail Analytics Story
-Developed visual analytics dashboards and business performance insights.
+Developed visual analytics dashboards and business performance insights for Adidas Sales.
 
 ### A/B Testing & Marketing Analytics
-Performed hypothesis testing and conversion analysis for marketing campaigns.
+Performed hypothesis testing and conversion analysis for marketing campaigns Grammys.
 
 
 ---
